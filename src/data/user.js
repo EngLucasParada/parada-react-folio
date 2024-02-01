@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Lucas Parada",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Sou Engenheiro de Software com experiência em Ruby on Rails. Tenho experiência na construção de aplicações web escaláveis, seguras e confiáveis usando vários frameworks e tecnologias. Gosto de resolver problemas complexos e aprender novas habilidades. Sou apaixonado por criar código de alta qualidade que siga as melhores práticas e padrões do setor. Estou sempre em busca de novos desafios e oportunidades para crescer!",
 	},
 
 	about: {

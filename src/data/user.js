@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
 		title: "Lucas Parada Portfolio",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		name: "Lucas Parada",
+		email: "eng.lucasparada@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -22,9 +22,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Sou o Lucas Parada, onde desafios são oportunidades para se destacar.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Trabalhei em vários projetos ao longo dos anos e estou orgulhoso do progresso que fiz. Se você estiver interessado em algum dos projetos em que trabalhei, sinta-se à vontade para me chamar para um bate-papo! Colaborar com outras pessoas é uma ótima maneira de aprender e crescer, e estou sempre aberto a novas ideias e feedback.",
 	},
 
 	articles: {

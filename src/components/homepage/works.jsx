@@ -19,11 +19,11 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Grupo FitoFórmula</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Analista de Desenvolvimento
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">set de 2023- Present</div>
 						</div>
 
 						<div className="work">

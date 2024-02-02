@@ -130,9 +130,9 @@
 		order: 1;
 	}
 
-	.homepage-after-title {
+	/* .homepage-after-title {
 		flex-direction: column;
-	}
+	} */
 
 	.homepage-projects {
 		flex-basis: auto;

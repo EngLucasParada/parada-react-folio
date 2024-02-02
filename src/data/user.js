@@ -35,49 +35,49 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Projeto SIM (TMS) ",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Na Contrail, minha atuação abrangeu a sustentação e desenvolvimento de novas funcionalidades, tecnologias usadas Ruby on Rails, jQuery, Bootstrap, Sidekiq, Docker, MySQL, etc…",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.png",
+			// linkText: "View Project",
+			// link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Projeto Portifólio",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Desenvolvimento do meu portfólio pessoal moderno e responsivo criado utilizando React!",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
+			// linkText: "View Project",
+			// link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "Projeto E-commerce",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Desenvolvimento do primeiro software do Grupo FitoFórmula, utilizando Ruby on Rails, jQuery, RESTful API, Bootstrap, Docker, MySQL, etc…",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.png",
+			// linkText: "View Project",
+			// link: "https://github.com",
 		},
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 4",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 5",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 	],
 };
 

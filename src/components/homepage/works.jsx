@@ -23,7 +23,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Analista de Desenvolvimento
 							</div>
-							<div className="work-duration">set de 2023- Present</div>
+							<div className="work-duration">Set de 2023 - Present</div>
 						</div>
 
 						<div className="work">
@@ -32,11 +32,42 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Contrail Logística</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Assistente de Desenvolvimento
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">Jul de 2023 - Set de 2023</div>
+						</div>
+						<div className="work subordinate">
+							<div className="work-subtitle">
+								Estagiário de Desenvolvimento
+							</div>
+							<div className="work-duration">Mai de 2023 - Jul de 2023</div>
+						</div>
+						<p></p>
+						<div className="work">
+							<img
+								src="./bradesco.png"
+								alt="bradesco"
+								className="work-image"
+							/>
+							<div className="work-title">Bradesco</div>
+							<div className="work-subtitle">
+								Estagiário de BI e Inovação
+							</div>
+							<div className="work-duration">Mar de 2022 - Mai de 2022</div>
+						</div>
+						<div className="work">
+							<img
+								src="./facebook.png"
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">Bradesco</div>
+							<div className="work-subtitle">
+								Estagiário de BI e Inovação
+							</div>
+							<div className="work-duration">Mar de 2022 - Mai de 2022</div>
 						</div>
 					</div>
 				}

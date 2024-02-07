@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "Sou o Lucas Parada, onde desafios são oportunidades para se destacar.",
 		description:
-			"Trabalhei em vários projetos ao longo dos anos e estou orgulhoso do progresso que fiz. Se você estiver interessado em algum dos projetos em que trabalhei, sinta-se à vontade para me chamar para um bate-papo! Colaborar com outras pessoas é uma ótima maneira de aprender e crescer, e estou sempre aberto a novas ideias e feedback.",
+			"Atualmente Junior Software Engineer com mais de 3 anos de experiência em desenvolvimento de softwares em Ruby on Rails e APIs RESTful, e ampla familiaridade com a infraestrutura AWS e outras Clouds. Habilidades avançadas em observabilidade, incluindo ferramentas como NewRelic, Grafana e Zabbix, fortalecendo minhas habilidades analíticas e de resolução de problemas. Reconhecido por fornecer suporte eficaz a parceiros externos e compartilhar conhecimento internamente, facilitando a integração e utilização de nossos serviços. Proficiente em bancos de dados como MySQL, PostgreSQL e Oracle, com experiência em otimização e gerenciamento de dados em ambientes de produção. Sou um engenheiro de software comprometido com desempenho, escalabilidade e usabilidade, capaz de trabalhar efetivamente em equipes colaborativas.",
 	},
 
 	articles: {

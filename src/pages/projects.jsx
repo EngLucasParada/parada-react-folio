@@ -47,7 +47,7 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-						{'{'}loading{'}'}...
+						{'{'}loading{'}'}... :)
 						</div>
 
 						<div className="projects-list">

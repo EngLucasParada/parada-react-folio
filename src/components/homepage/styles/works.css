@@ -8,7 +8,7 @@
 	position: relative;
     display: flex;
     padding-bottom: 40px;
-    width: 940px;
+    width: 100%;
 }
 
 .work-image {
@@ -37,11 +37,13 @@
 }
 
 .work-duration {
+    margin-left: auto;
+    font-size: 12px;
     position: absolute;
     right: 0;
     bottom: 2;
     font-size: 12px;
-    color: var(--tertiary-color);
+    color: var(--secondary-color);
 }
 
 .subordinate {

@@ -21,7 +21,7 @@ import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
+// import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
 

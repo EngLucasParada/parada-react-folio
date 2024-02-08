@@ -54,5 +54,8 @@
 	"prettier": {
 		"useTabs": true,
 		"tabWidth": 4
+	},
+	"devDependencies": {
+		"netlify-cli": "^17.16.0"
 	}
 }

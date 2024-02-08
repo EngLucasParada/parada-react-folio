@@ -38,7 +38,7 @@ const INFO = {
 			title: "Projeto SIM (TMS) ",
 			description:
 				"Na Contrail, minha atuação abrangeu a sustentação e desenvolvimento de novas funcionalidades, tecnologias usadas Ruby on Rails, jQuery, Bootstrap, Sidekiq, Docker, MySQL, etc…",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.png",
+			logo: "https://img.icons8.com/color/48/ruby-programming-language.png",
 			// linkText: "View Project",
 			// link: "https://github.com",
 		},
@@ -56,7 +56,7 @@ const INFO = {
 			title: "Projeto E-commerce",
 			description:
 				"Desenvolvimento do primeiro software do Grupo FitoFórmula, utilizando Ruby on Rails, jQuery, RESTful API, Bootstrap, Docker, MySQL, etc…",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/ruby/ruby.png",
+			logo: "https://img.icons8.com/color/48/ruby-programming-language.png",
 			// linkText: "View Project",
 			// link: "https://github.com",
 		},

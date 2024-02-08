@@ -79,7 +79,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Assistente Administrativo
 							</div>
-							<div className="work-duration">Jan de 2020 - Set de 2022</div>
+							<div className="work-duration">Jan de 2020 - Set de 2021</div>
 						</div>
 						<div className="work">
 							<img
@@ -91,7 +91,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Consultor de produtos financeiros
 							</div>
-							<div className="work-duration">Jul de 2019 - Jan de 2020</div>
+							<div className="work-duration">Jun de 2019 - Jan de 2020</div>
 						</div>
 					</div>
 				}

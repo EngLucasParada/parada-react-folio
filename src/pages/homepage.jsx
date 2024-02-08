@@ -4,12 +4,12 @@ import { Helmet } from "react-helmet";
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-	faTwitter,
+	// faTwitter,
 	faGithub,
-	faStackOverflow,
-	faInstagram,
+	// faStackOverflow,
+	// faInstagram,
 	faLinkedinIn,
-	faMailchimp,
+	// faMailchimp,
 } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../components/common/logo";

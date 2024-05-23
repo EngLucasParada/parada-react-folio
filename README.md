@@ -4,7 +4,7 @@ This is a portfolio project developed in React to showcase my projects, skills, 
 
 ## Contact
 
-Get in touch via [LinkedIn](https://www.linkedin.com/englucasparada) or send an email to [eng.lucasparada@gmail.com](mailto:eng.lucasparada@gmail.com).
+Get in touch via [LinkedIn](https://www.linkedin.com/in/englucasparada?originalSubdomain=br) or send an email to [eng.lucasparada@gmail.com](mailto:eng.lucasparada@gmail.com).
 
 ## 📙 Features
 

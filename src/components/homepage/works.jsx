@@ -19,7 +19,7 @@ const Works = () => {
 								alt="fitoformula"
 								className="work-image"
 							/>
-							<div className="work-title">Grupo FitoFórmula </div>
+							<div className="work-title">Grupo FitoFórmula  </div>
 							<div className="work-subtitle">
 								Analista de Dados
 							</div>
